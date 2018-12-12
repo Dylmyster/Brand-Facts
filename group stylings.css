@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: rgb(92, 216, 253);
+}
+.nav h2 {
+    height: 60px;
+    font-family:impact,charcoal,sans-serif;
+    font-size: 50px;
+    color:rgb(232,157,12);
+    float: left;
+    margin-top: 18px;
+    margin-left: 15px;
+}
+.nav a {
+    float: right;
+    margin: 15px 10px;
+    font-size:20px;
+    color:rgb(232,157,12);
+    text-decoration: none;
+}
+.nav{
+    width:100%;
+    height:100px;
+    background-color:rgb(109,12,232);
+    color:rgb(0, 109, 128); 
+}
+
+.winterimage{
+    background-image: url("happyPeople.jpg");
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    margin-top:10px;
+}
+
+.introduction{
+    width: 40%;
+    margin: 0 auto;
+    font-size: 2.0em;
+    border-radius: 10%;
+    text-align: center;
+    border: rgb(92, 11, 232) ;
+    border-style: groove;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blue-tuque, .black-tuque{
+    height:400px;
+    float: right;
+}
